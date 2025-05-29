@@ -71,4 +71,4 @@ outputs the corresponding results (result) to the Answer Generation Module for s
 
 ## Paper
 
-[A Knowledge Graph-Driven Question Answering System for Mineral Resource Survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5042985)
+[A lightweight Knowledge Graph-Driven Question Answering System for Mineral Resource Survey]
